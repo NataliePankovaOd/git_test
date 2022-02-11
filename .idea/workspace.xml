@@ -2,48 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e5bf932-4b5e-4051-a520-494c3e02623f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ProximaNova.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ProximaNova.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ProximaNova.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/git_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgSecondBlock.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgVector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/broshure.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/line.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/serchVector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smileVector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/starVector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tabVector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scripts.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap-grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap-grid.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap-reboot.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap-reboot.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/js/bootstrap.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/js/bootstrap.bundle.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/js/bootstrap.bundle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/js/bootstrap.bundle.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/js/bootstrap.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/bootstrap/js/bootstrap.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/effect/wow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unnamed.patch" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello_world.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unnamed.patch" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,7 +28,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="33" />
+    <option name="x" value="16" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="803" />
@@ -132,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644569427383</updated>
-      <workItem from="1644569432535" duration="523000" />
+      <workItem from="1644569432535" duration="1058000" />
     </task>
     <task id="LOCAL-00001">
       <created>1644569900098</created>
@@ -145,7 +107,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="523000" />
+    <option name="totallyTimeSpent" value="1058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="6" />
